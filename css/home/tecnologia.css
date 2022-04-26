@@ -3,8 +3,7 @@
   box-shadow: inset 0 80px #ffffff, inset 0 -80px #ffffff;
 }
 
-.tecnologia-conteudo span,
-p {
+.tecnologia-conteudo span p {
   color: #b2b2b2;
 }
 
